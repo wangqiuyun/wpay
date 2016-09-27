@@ -3,7 +3,6 @@ package com.wqy.util;
 public class PayConfigUtil {
 
 	//以下相关参数需要根据自己实际情况进行配置
-	
 	public static String APP_ID = "wx8000000111144444";// appid
 
 	public static String APP_SECRET = "0fb66116e9f46d2d71116b30f0addd85";// appsecret 
